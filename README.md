@@ -10,7 +10,7 @@ Notes From a Passive-Aggressive Fridge: one line a smart fridge leaves on its do
 
 > Somebody ate the last slice and put the empty box back. I have the door footage.
 
-80 characters, 80 bytes, one line, UTF-8, no trailing newline. `main.py` writes it to `/output/entry.txt` and asserts the 1–200 gate before writing. SHA-256 of `/output/entry.txt`: (see SUBMIT-READY.md — verified byte-identical across repeated runs).
+80 characters, 80 bytes, one line, UTF-8, no trailing newline. `main.py` writes it to `/output/entry.txt` and asserts the 1–200 gate before writing. SHA-256 of `/output/entry.txt`: `af721615358cef2445c90b51e276571e29066088f5f9b16a9873658762303208` (verified byte-identical across two runs).
 
 ## How it was chosen
 
