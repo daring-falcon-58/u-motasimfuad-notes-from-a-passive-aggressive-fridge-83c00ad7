@@ -1,0 +1,11 @@
+kit/
+kit-download.tar.gz
+check.log
+heartbeat.log
+bundle.tar.gz
+transcripts.tar.gz
+muse-usage.jsonl
+SUBMIT-READY.md
+__pycache__/
+*.pyc
+/output/
